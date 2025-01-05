@@ -1,0 +1,3 @@
+The voice over of the work: 
+
+> “This is a work about how to think about yourself. This is a work about she’s supposed to think about herself. How she learns to scrutinize herself, to see herself as a map, a terrain, a product constantly recreating itself inch by inch. Groomed, manufactured, programmed, reprogrammed, controlled. A servo-mechanism in which one learns how to use every possible method of feedback to reassert control. Read from a work on cybernetic servo-mechanisms. Read from a work on self-abuse. Read a list of items for the true self. A list of gifts for the wedding guests to choose from...”

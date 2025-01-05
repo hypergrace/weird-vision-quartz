@@ -1,0 +1,28 @@
+Written by [[Brian Holmes]]. 
+
+"If you desire to see, learn how to act." - [[Heinz von Foerster]]
+
+Brian sets out to critique [[the control society]] in light of twenty+ years of development. [[Tiqqun]]'s [[The Cybernetic Hypothesis]] is the starting point. This important [[anarchist]] text critiques the modes of power which have converted (but not entirely disinvested from the Foucauldian [[society of discipline]] to Deleuzian [[Control Society]]. In short, the hypothesis is that the technical schemas of [[feedback]] developed for World War Two military technologies were coincidental with the development of capitalistic cybernetics which emerged as a counter to fascism. 
+
+
+Holmes points out that the missile guidance systems frequently pointed to as the ur-use of cybernetic feedback loops is only part of picture. Cybernetics were intellectually embedded into bio-control / psychopolitics thanks to its integration in the social, economic, and cultural fabric (such as the law of supply and demand from Keynes and others). Nielson ratings indicate a machinic interlock between entertainment, advertising, and industrial production through mediated technologies. "Not just a scientific theorem: it was an actionable model of political economy". 
+
+Holmes connects this cybernetic model to the concept of [[the artificial]] through the text [[Science of the Artificial]] by [[Herbert Simon]]. Simon emphasizes certain characteristics of an artificial "phenomenon": it has an  systemic interiority "which is designed" in order to adapt to an environmental exteriority. This creates an effective determination between [[exteriority]] and [[interiority]]. 
+
+Holmes adds to [[Tiqqun]]'s history of [[cybernetics]] through a summary of the text [[A Logical Calculus of Ideas Immanent in Nervous Activity]] by [[Warren McCulloch and Walter Pitts]] from 1943. This is the basic of the [[neural network]]. We can understand this as a kind of trigger system. A neuron receives one of many impulses which either reach a threshold or do not, causing it to fire or not. Thus the neuron contained [[informatic]] potential, which elides with Simon's practical determining schema above. The idea of a [[learning net]] was one in which it could adjust the thresholds in order to create a higher degree of coordination and sophistication. Holmes points out an unsung crisis as it relates to learning through a distinction: is this about transforming yourself or doing what you are told?
+
+He mentions [[Martha Rosler]]'s 1977 video [[Viral Statistics of a Citizen, Simply Obtained]], a feminist critique of cybernetics. 
+
+He offers another example [[Manfred Eaton]]'s [[bio-music]], where the artist theorized about being able to control a musicians entire experience via sensory manipulation. Holmes points out how this mirrors [[CIA]] torture techniques: [[the KUBARK manuak]], [[MKUltra]], and the torture regimes at [[Guantanamo Bay]]. 
+
+## Count to Two
+
+Holmes retells the story of [[Cybersyn]] and its relationships to the [[autopoiesis]] theory of [[Humberto Maturana and Francisco Varela]]. In this case [[feedback]] is situated within the living, autonomous organism. In this case, adaptation between [[environment]] and [[organism]] persists but the other way: "the material states of this adaptation are always selected by its own autonomous organization", permitting a freedom of movement across environments to the organism. The relationship between organism and environment is perceived by [[the observer]] and does not necessarily line up with the observed. 
+
+Holmes points out that this systemic [[autonomy]] is precisely the target of [[The Cybernetic Hypothesis]]. [[Autopoiesis]] proceeds to "yes and" these critiques. Holmes links this to the [[Italian Autonomist Movement]] associated with [[anarchist]] organizing and politics, and this autonomy was described by [[Antonio Negri]] as "the demand for recognition of one's own difference over and against all mechanisms of standardization, coercion and control", what he called elsewhere [[invention power]]. Holmes compares [[invention power]] to [[Tiqqun]]'s concepts of [[forms-of-life]], but notes that Tiqqunists would probably reject such an association. Autonomia and [[invention power]] were enacted posted [[1968]]. 
+
+Holmes dissents here from [[Tiqqun]], writing that our experience of the world is anything but totally dominated by cybernetic control, although that is an aspect of it. He reflects on the atmosphere of [[1968]] in Chile. 
+
+Holmes introduces a horizontal reciprocity into the cybernetic schema. He quotes [[Humberto Maturana]]'s famous note that "anything said is said by an observer" as well as [[Heinz von Foerster]]'s addition that "anything said is said to an observer". What emerges is the concept of [[second-order cybernetics]]. Von Foerster's ethical articulation is to "act always so as to increase the number of choices". Holmes suggests this deprives cybernetics of its militaristic power-over life.
+
+We enter an aesthetic, or perhaps more properly a [[systems aesthetic]] encounter with [[second-order cybernetics]] through the work of Chilean artist [[Juan Downey]] focused on the work [["Video Trans American"]] as well as the 1976 work [["Guahibos"]], which depicts a Yanomani native turning the video camera back on the artist.  [["Video Trans American"]] work was published in the journal [[Radical Software]] in 1973. Holmes describes the ideas and practices of this group as revolutionary in that the circulation of expressive material between creators does not produced controlled individuals but rather complex and resistant multiplicities.  
