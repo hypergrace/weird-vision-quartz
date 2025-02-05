@@ -1,0 +1,15 @@
+by [[Isabelle Stengers]]
+
+"I once offered the example of the Virgin Mary—not the theological figure but the intercessor whom pilgrims address. It’s wrong to think that the Virgin Mary could make her existence known independently of the faith and trust of pilgrims; for her to do so in a situation committed to the question of how to represent her would be in bad taste. Rather, if we accept that that aim of a pilgrimage is the transformative experience of the pilgrim, we must not require the Virgin Mary to “demonstrate” her existence to prove she is not merely a “fiction.” **We must not, in other words, mobilize the categories of superstition, belief, or symbolic efficacy in an attempt to explain away what pilgrims claim to experience. Instead, we must conclude that the Virgin Mary requires a milieu that does not answer to scientific demands**."
+
+"A distinct operation was attempted by the surrealist poet André Breton, who claimed that the magnetism should be taken out of the hands of scientists and physicians, who mutilate them through polemical verifications dominated by the suspicion of quackery, self-delusion, or deliberate cheating. For Breton, the point was not to verify what magnetized clairvoyants see, or to understand enigmatic healings, but to cultivate lucid trances (automatism) in the milieu of art, with the ultimate aim of escaping the shackles of normal, representational perception. The milieu of art would explore the means to “recuperate our psychical force.”"
+
+"Yet Breton’s proposition was less a practical one than an appropriative one, marked by a typically modernist triumphalism. To him, art was supreme, not a craft among other crafts but instead the final manifestation of the “surreal,” purified of superstitious beliefs—such as animism."
+
+"He would thus not envisage making rhizomatic connections to other practices that likewise explore a metamorphic (rather than a representational) relation to the world. He would not break with the perspective that still dominates so many “interdisciplinary” encounters, where the “subjectivity” of the artist’s standpoint is contrasted with the “objectivity” of Science."
+
+"Scientists are infected, of course, as are all those who accept their authority to decide what objectively exists. But also infected might be those who would claim to be animists, if they affirm that rocks “really” have souls or intentions, like humans. It is the “really” that matters here, an emphasis that marks the polemical power associated with truth. Coming back for a moment to the anthropologist Philippe Descola’s classification, I would guess that those who are categorized as animists have no word for “really,” for insisting that they are right and others are victims of illusions."
+
+“She changes everything She touches, and everything She touches changes”
+
+"Reclaiming always implies a compromising step. I would claim that we, who are not witches, do not have to mimic them but instead discover how to be compromised by magic"

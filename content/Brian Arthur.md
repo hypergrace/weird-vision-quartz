@@ -1,0 +1,1 @@
+Theorist of the Sante Fe Institute and writer of the 1990 article [["Positive Feedbacks in the Economy"]], a text which forecasts the economy as untethered from material production. 

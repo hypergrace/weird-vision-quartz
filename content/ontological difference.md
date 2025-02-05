@@ -1,0 +1,1 @@
+[[Brian Holmes]] defines this as "the power to invent and maintain a form of life", found in the work of [[Humberto Maturana and Francisco Varela]].  

@@ -1,0 +1,3 @@
+- A bold reconstruction of the history of revolutionary politics in the 1970s
+- One of the first books to systematically approach the political movements of the seventies within a global framework of analysis
+- Brings together a wide range of political movements from the decade, highlighting the ways movements in different countries resonated with and were inspired by one another

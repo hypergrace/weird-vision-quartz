@@ -1,0 +1,7 @@
+By [[Joshua Ramey]]
+
+## Abstract 
+
+> In his writing, Gilles Deleuze drew on a vast array of source material, from philosophy and psychoanalysis to science and art. Yet scholars have largely neglected one of the intellectual currents underlying his work: Western esotericism, specifically the lineage of [[hermetic thought]] that extends from Late Antiquity into the Renaissance through the work of figures such as Iamblichus, [[Nicholas of Cusa]], [[Pico della Mirandola]], and [[Giordano Bruno]]. In this book, Joshua Ramey examines the extent to which [[Deleuze]]'s ethics, metaphysics, and politics were informed by, and can only be fully understood through, this hermetic tradition.
+> 
+> Identifying key hermetic moments in Deleuze's thought, including his theories of [[art]], [[subjectivity]], and [[immanence]], Ramey argues that the philosopher's work represents a kind of contemporary hermeticism, a consistent experiment in unifying thought and affect, percept and concept, and mind and nature in order to engender new relations between knowledge, power, and desire. By uncovering and clarifying the hermetic strand in Deleuze's work, Ramey offers both a new interpretation of Deleuze, particularly his insistence that the development of thought demands a spiritual ordeal, and a framework for retrieving the pre-Kantian paradigm of philosophy as [[spiritual practice]].

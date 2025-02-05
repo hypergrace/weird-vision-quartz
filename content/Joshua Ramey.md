@@ -1,0 +1,1 @@
+Author of [[Hermetic Deleuze, Philosophy and the Spiritual Ordeal]] and [[Politics of Divination, Neoliberal Endgame and the Religion of Contingency]] 
