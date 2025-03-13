@@ -1,0 +1,3 @@
+from [[Gilbert Simondon]]: 
+
+"the technical object distinguishes itself from the natural being in the sense that it is not part of the world. It intervenes as mediator between man and the world; it is, in this respect, the first detached object, since the world is a unity, a milieu rather than an ensemble of objects; there are in fact three types of reality: the world, the subject, and the object, which is intermediary between the world and the subject, whose initial form is that of the technical object."
